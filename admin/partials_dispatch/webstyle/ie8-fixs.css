@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.basic-problem-css {background-position-x: 95%; background-position-y: 50%;}
+nav UL LI {padding:0 27px 0 27px;}
+nav UL {text-align:center;}
+section.buy-now .bottles .mask { background-image:url('../images/hover-ie8-fix-bg-white-transparent.png'); background-repeat:repeat;}

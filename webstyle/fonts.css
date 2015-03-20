@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url('../fonts/centurygothic-webfont.eot');
+    src: url('../fonts/centurygothic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/centurygothic-webfont.woff') format('woff'),
+         url('../fonts/centurygothic-webfont.ttf') format('truetype'),
+         url('../fonts/centurygothic-webfont.svg#CenturyGothicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'CenturyGothicBold';
+    src: url('../fonts/centurygothicbold-webfont.eot');
+    src: url('../fonts/centurygothicbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/centurygothicbold-webfont.woff') format('woff'),
+         url('../fonts/centurygothicbold-webfont.ttf') format('truetype'),
+         url('../fonts/centurygothicbold-webfont.svg#CenturyGothicBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'CalibriRegular';
+	src: url('../fonts/calibri-webfont.eot');
+	src: url('../fonts/calibri-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/calibri-webfont.woff') format('woff'),
+		 url('../fonts/calibri-webfont.ttf') format('truetype'),
+		 url('../fonts/calibri-webfont.svg#webfontSyuyh8D5') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'DINWebCondensed';
+    src: url('../fonts/DINWeb-CondBold.eot');
+    src: url('../fonts/DINWeb-CondBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DINWeb-CondBold.woff') format('woff'),
+         url('../fonts/DINWeb-CondBold.ttf') format('truetype'),
+         url('../fonts/DINWeb-CondBold.svg#snicons') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
